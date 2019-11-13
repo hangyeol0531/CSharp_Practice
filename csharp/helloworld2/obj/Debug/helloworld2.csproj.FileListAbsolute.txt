@@ -1,0 +1,6 @@
+C:\C sharppr\csharp\helloworld2\bin\Debug\helloworld2.exe.config
+C:\C sharppr\csharp\helloworld2\bin\Debug\helloworld2.exe
+C:\C sharppr\csharp\helloworld2\bin\Debug\helloworld2.pdb
+C:\C sharppr\csharp\helloworld2\obj\Debug\helloworld2.csproj.CoreCompileInputs.cache
+C:\C sharppr\csharp\helloworld2\obj\Debug\helloworld2.exe
+C:\C sharppr\csharp\helloworld2\obj\Debug\helloworld2.pdb

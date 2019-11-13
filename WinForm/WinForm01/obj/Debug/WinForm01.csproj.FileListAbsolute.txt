@@ -1,0 +1,8 @@
+C:\C sharppr\WinForm\WinForm01\bin\Debug\WinForm01.exe.config
+C:\C sharppr\WinForm\WinForm01\bin\Debug\WinForm01.exe
+C:\C sharppr\WinForm\WinForm01\bin\Debug\WinForm01.pdb
+C:\C sharppr\WinForm\WinForm01\obj\Debug\WinForm01.csprojAssemblyReference.cache
+C:\C sharppr\WinForm\WinForm01\obj\Debug\WinForm01.Properties.Resources.resources
+C:\C sharppr\WinForm\WinForm01\obj\Debug\WinForm01.csproj.GenerateResource.cache
+C:\C sharppr\WinForm\WinForm01\obj\Debug\WinForm01.exe
+C:\C sharppr\WinForm\WinForm01\obj\Debug\WinForm01.pdb

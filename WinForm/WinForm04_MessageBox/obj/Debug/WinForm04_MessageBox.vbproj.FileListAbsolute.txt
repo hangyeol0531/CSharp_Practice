@@ -1,0 +1,11 @@
+C:\C sharppr\WinForm\WinForm04_MessageBox\bin\Debug\WinForm04_MessageBox.exe.config
+C:\C sharppr\WinForm\WinForm04_MessageBox\bin\Debug\WinForm04_MessageBox.exe
+C:\C sharppr\WinForm\WinForm04_MessageBox\bin\Debug\WinForm04_MessageBox.pdb
+C:\C sharppr\WinForm\WinForm04_MessageBox\bin\Debug\WinForm04_MessageBox.xml
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.vbprojAssemblyReference.cache
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.Form1.resources
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.Resources.resources
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.vbproj.GenerateResource.cache
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.exe
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.xml
+C:\C sharppr\WinForm\WinForm04_MessageBox\obj\Debug\WinForm04_MessageBox.pdb

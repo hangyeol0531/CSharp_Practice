@@ -1,0 +1,6 @@
+C:\C sharppr\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.exe.config
+C:\C sharppr\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.exe
+C:\C sharppr\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.pdb
+C:\C sharppr\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.csprojAssemblyReference.cache
+C:\C sharppr\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.exe
+C:\C sharppr\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.pdb
